@@ -1,0 +1,12 @@
+[main][INFO]RotateFileLogger_INFO,2026-03-20 17:25:22.651
+[main][ERROR]RotateFileLogger_Error,2026-03-20 17:25:22.654
+RotateFileLogger_INFO,2026-03-20 17:28:28.945
+RotateFileLogger_Error,2026-03-20 17:28:28.948
+RotateFileLogger_INFO,2026-03-20 17:28:43.453
+RotateFileLogger_Error,2026-03-20 17:28:43.455
+RotateFileLogger_INFO,2026-03-20 17:30:12.706
+RotateFileLogger_Error,2026-03-20 17:30:12.709
+RotateFileLogger_Debug,2026-03-20 17:30:48.471
+RotateFileLogger_WARN,2026-03-20 17:30:48.473
+RotateFileLogger_Debug,2026-03-20 17:31:03.119
+RotateFileLogger_WARN,2026-03-20 17:31:03.121
